@@ -1,0 +1,16 @@
+{
+  "name": "S-expr visualizer",
+  "description": "Renders a dom tree that looks like an s-expr",
+  "uid": "sexrp-viz",
+  "scopes": ["crm.objects.contacts.read"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/sexpr.json"
+        }
+      ]
+    }
+  }
+}

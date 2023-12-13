@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "S-exrp visualizer",
+    "uid": "sexpr-card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "Sexpr-render.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

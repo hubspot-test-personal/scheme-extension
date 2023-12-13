@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "myFunc": {
+      "file": "parse-and-exec.js",
+      "secrets": []
+    }
+  }
+}

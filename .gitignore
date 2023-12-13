@@ -1,0 +1,4 @@
+dist
+node_modules
+src/app/extensions/node_modules
+src/app/app.functions/node_modules
